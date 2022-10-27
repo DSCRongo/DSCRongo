@@ -36,7 +36,7 @@
   <a href="https://github.com/dscrongo/UIUX-Product-Design"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dscrongo&repo=UIUX-Product-Design&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="UIUX-Product-Design"></a>
   <a href="https://github.com/dscrongo/UIUX-Product-Design"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dscrongo&repo=DESKTOP-JAVA&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DESKTOP-JAVA"></a>
     <a href="https://github.com/dscrongo/DSC-Rongo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dscrongo&repo=DSC-Rongo&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="DSC-Rongo"></a>
-<a href="https://github.com/dscrongo/Spike"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dscrongo&repo=Spike&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Spike"></a>
+<a href="https://github.com/dscrongo/.github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dscrongo&repo=.github&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt=".github"></a>
 </p>
 <p align="left">
   <a href="https://github.com/dscrongo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -87,4 +87,4 @@
 </details>
 
 
-
+<img src="/print/ru.png" width=100% height=5px>

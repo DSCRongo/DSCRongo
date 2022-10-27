@@ -87,4 +87,4 @@
 </details>
 
 
-<img src="/print/ru.png" width=100% height=5px>
+<img src="/printer/ru.png">
